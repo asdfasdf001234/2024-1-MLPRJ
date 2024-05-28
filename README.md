@@ -16,5 +16,12 @@ hyper paramter augmentation
 
 model
 1. GoogleNet
-2. ResNet50
-3. convfacenet
+   1-1. 기대 효과
+   1-2. 실패 요인
+     모델 구조 분석 결과 모델의 장점을 프로젝트에 사용할 수 없음
+3. ResNet50
+4. convfacenet
+   3-1. 기대 효과
+     얼굴 사진으로 pre-train된 모델을 사용하면 성능이 증가할 것이다
+   3-2. 실패 요인
+     전처리 모델을 사용할 수 없고, 공개된 구조만 사용할 수 있음
