@@ -1,8 +1,8 @@
 # 2024-1-MLPRJ
 
 전처리
-1. crop
-2. white balance : gray-world
+1. crop (done)
+2. white balance : gray-world (done)
 
 기본augmentation
 1. 좌우반전
@@ -31,11 +31,11 @@ model
 5. 진행상황</br>
 ResNet50, ResNet101둘다 정확도 0.5미만 => 색이 아니라 얼굴 모양을 보고 학습하는 것 같음</br>
 
-6. 시도할 수 있는 것
-   6-1. 형태를 알 수 없도록 blur
-   6-2. HSV 색공간으로 바꾸기
-   6-3. attention
-   6-4. 피부만 뜯기
+6. 시도할 수 있는 것</br>
+   6-1. 형태를 알 수 없도록 blur</br>
+   6-2. HSV 색공간으로 바꾸기</br>
+   6-3. attention</br>
+   6-4. 피부만 뜯기</br>
 
-7. 시도한 것
-   7-1. Fine tuning 조정
+7. 시도한 것</br>
+   7-1. Fine tuning 조정</br>
