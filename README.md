@@ -22,8 +22,7 @@ model
 3. ResNet50
 4. convnext</br>
    3-1. 기대 효과</br>
-   </br>
-   3-2. 실패 요인
+   3-2. 실패 요인 </br>
    과적합 문제가 발생하는 걸로 보임</br>
    3-3. convfacenet </br>
    얼굴 사진으로 pre-train된 모델을 사용하면 성능이 증가할 것이라 판단</br>
